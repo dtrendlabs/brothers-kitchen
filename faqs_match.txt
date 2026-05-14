@@ -1,0 +1,16 @@
+FAQS = [{
+            q: "How do I place an order?",
+            a: "Just WhatsApp us at +91 8595 999 769 with your sector and number of meals. We'll confirm instantly."
+          }, {
+            q: "What are the delivery timings?",
+            a: "We deliver twice daily — once in the morning for early lunch, and once in the evening. Pick what works for your day."
+          }, {
+            q: "Do you have a subscription plan?",
+            a: "No subscription needed. Order per meal, per day. But regulars get priority dispatch 😉."
+          }, {
+            q: "Is the food pure veg?",
+            a: "Yes. 100% vegetarian, cooked in a clean home-style kitchen in Sector 72A."
+          }, {
+            q: "Can the menu change?",
+            a: "The 2 sabzis rotate daily so you never get bored. Chapati, rice, pickle and salad are daily staples."
+          }]
